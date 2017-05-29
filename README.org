@@ -1,0 +1,35 @@
+* Tema 1: Cadenas de Markov en tiempo continuo
+** Procesos de Poisson
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946852/mod_resource/content/5/1.1%20PPoisson.pdf][Teoria]]
+** Cadenas de Markov en tiempo continuo (CMTC)
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946853/mod_resource/content/3/1.2%20CMTC.pdf][Teoria]]
+** Ejercicios resueltos
+*** Poisson
+    Ejercicios clase -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946856/mod_resource/content/4/problemas-pp-30.pdf][Ejercicios]]
+*** CMTC
+    Ejercicios clase -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946857/mod_resource/content/2/problemas-cmtc-30.pdf][link]]
+    Examen 25/10/2013 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946858/mod_resource/content/2/Tema1-PYEII-25Oct-2013.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946859/mod_resource/content/3/Tema1-PYEII-25Oct-2013-soluciones.pdf][Solucion]]
+    Examen 24/10/2014 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946860/mod_resource/content/5/Tema1-PYEII-24Oct-2014.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946861/mod_resource/content/4/Tema1-PYEII-24Oct-2014-soluciones.pdf][Solucion]]
+    Examen 07/04/2015 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946862/mod_resource/content/2/Tema1-PYEII-07Abr-2015.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946863/mod_resource/content/3/Tema1-PYEII-07Abr-2015-soluciones.pdf][Solucion]]
+    Examen 05/04/2016 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946876/mod_resource/content/3/Examen-05042016-pye2ii.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946877/mod_resource/content/2/Examen-05042016-pye2ii-solucion.pdf][Solucion]]
+
+* Tema 2: Modelos de colas
+** Estructura de una cola
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946881/mod_resource/content/2/Transparencias/3.1_Estructura_de_una_cola.pdf][Teoria]]
+** Modelos de colas basicos
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946882/mod_resource/content/2/Tema2-mm1-mm1k%20-%20alumnos.pdf][mm1 y mm1k]]
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946883/mod_resource/content/2/Tema2-mmc-mmoo%20-%20alumnos.pdf][mmc y mmoo]]
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946884/mod_resource/content/3/Tema2-mm1kk%20-%20alumnos.pdf][mm1kk]]
+** Ejercicios resueltos
+*** Modelos de colas
+    [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946887/mod_resource/content/4/Tema2-p1.pdf][Ejemplo mm1k]]
+    [[https://moodle.upm.es/titulaciones/oficiales/mod/resource/view.php?id=630904][Ejemplo mmc]]
+* Tema 3: Redes de colas
+** Redes de colas
+   [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946900/mod_resource/content/0/Transparencias/4._Redes_de_colas.pdf][Teoria]]
+** Ejercicios resueltos
+*** Redes de colas
+    Ejercicio de clase -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946902/mod_resource/content/5/ejemplos-redes-de-colas.pdf][link]]
+    Examen 19/12/2014 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946903/mod_resource/content/5/Tema1-PYEII-19DIC-2014.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946904/mod_resource/content/6/Tema1-PYEII-19DIC-2014-soluciones.pdf][Solucion]]
+    Examen 15/01/2014 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946905/mod_resource/content/4/Tema23-PYEII-15Enet-2014.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946906/mod_resource/content/4/Tema23-PYEII-15Enet-2014-soluciones.pdf][Solucion]]
+    Examen 02/06/2015 -> [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946907/mod_resource/content/2/Examen%20Tema%202.pdf][Examen]], [[https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/946908/mod_resource/content/1/Solucio%CC%81n%20Examen.pdf][Solucion]]
